@@ -55,7 +55,7 @@ No additional requirements or dependencies needed.
 
 ## Release Notes
 
-### 0.1.0
+### 1.0.0
 
 Initial release with core features:
 - Unescape and format escaped JSON strings
@@ -70,4 +70,3 @@ MIT
 
 ---
 
-**Enjoy!** 🎉

@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Compiled output
+out/
+*.js
+*.js.map
+
+# VS Code
+.vscode/
+.vscode-test/
+
+# Build artifacts
+*.vsix
+
+# Test files
+test-input.txt
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
